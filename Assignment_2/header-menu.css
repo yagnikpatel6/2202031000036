@@ -1,0 +1,80 @@
+.button10 {
+  position: absolute;
+  height: 29.38%;
+  width: 100%;
+  top: 33.75%;
+  left: 0;
+  letter-spacing: 0.2px;
+  line-height: 14px;
+  font-weight: 600;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.small-button-prime7 {
+  position: absolute;
+  top: 0;
+  left: 703.5px;
+  border-radius: var(--br-21xl);
+  background-color: var(--primary);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.1);
+  width: 252.5px;
+  height: 48px;
+}
+.careers7,
+.support7 {
+  top: 0;
+  letter-spacing: 0.2px;
+  line-height: 24px;
+  display: inline-block;
+}
+.support7 {
+  position: absolute;
+  left: 512.3px;
+  width: 129.9px;
+  height: 22.1px;
+}
+.careers7 {
+  left: 317.5px;
+  width: 113.6px;
+}
+.about7,
+.blog7,
+.careers7,
+.menu7 {
+  position: absolute;
+  height: 23px;
+}
+.blog7 {
+  top: 0;
+  left: 165.9px;
+  letter-spacing: 0.2px;
+  line-height: 24px;
+  display: inline-block;
+  width: 72.2px;
+}
+.about7,
+.menu7 {
+  left: 0;
+}
+.about7 {
+  top: 0;
+  letter-spacing: 0.2px;
+  line-height: 24px;
+  display: inline-block;
+  width: 97.4px;
+}
+.menu7 {
+  top: 14.4px;
+  width: 642.1px;
+  color: var(--primary);
+}
+.header-menu7 {
+  width: 100%;
+  position: relative;
+  height: 48px;
+  text-align: center;
+  font-size: var(--menu-16px-regular-size);
+  color: var(--z-white-fff);
+  font-family: var(--button);
+}

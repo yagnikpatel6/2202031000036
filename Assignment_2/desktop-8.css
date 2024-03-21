@@ -1,0 +1,96 @@
+.best-contact-us-page-designs-1-icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1907px;
+  height: 1328px;
+  object-fit: cover;
+}
+.button9 {
+  position: absolute;
+  height: 29.38%;
+  width: 100%;
+  top: 33.75%;
+  left: 0;
+  letter-spacing: 0.2px;
+  line-height: 14px;
+  font-weight: 600;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.small-button-prime6 {
+  position: absolute;
+  top: 0;
+  left: 760.1px;
+  border-radius: var(--br-21xl);
+  background-color: var(--primary);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.1);
+  width: 272.9px;
+  height: 48px;
+}
+.careers6,
+.support6 {
+  top: 0;
+  letter-spacing: 0.2px;
+  line-height: 24px;
+  display: inline-block;
+}
+.support6 {
+  position: absolute;
+  left: 553.5px;
+  width: 140.3px;
+  height: 22.1px;
+}
+.careers6 {
+  left: 343px;
+  width: 122.8px;
+}
+.about6,
+.blog6,
+.careers6,
+.menu6 {
+  position: absolute;
+  height: 23px;
+}
+.blog6 {
+  top: 0;
+  left: 179.3px;
+  letter-spacing: 0.2px;
+  line-height: 24px;
+  display: inline-block;
+  width: 78px;
+}
+.about6,
+.menu6 {
+  left: 0;
+}
+.about6 {
+  top: 0;
+  letter-spacing: 0.2px;
+  line-height: 24px;
+  display: inline-block;
+  width: 105.2px;
+}
+.menu6 {
+  top: 14.4px;
+  width: 693.9px;
+  color: var(--primary);
+}
+.header-menu6 {
+  position: absolute;
+  top: 29px;
+  left: 830px;
+  width: 1033px;
+  height: 48px;
+}
+.desktop-8 {
+  width: 100%;
+  position: relative;
+  background-color: var(--z-white-fff);
+  height: 1328px;
+  text-align: center;
+  font-size: var(--menu-16px-regular-size);
+  color: var(--z-white-fff);
+  font-family: var(--button);
+}

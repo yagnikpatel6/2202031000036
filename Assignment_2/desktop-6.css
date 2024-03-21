@@ -1,0 +1,96 @@
+.payment-form-1-icon {
+  position: absolute;
+  top: 0;
+  left: 48px;
+  width: 1638px;
+  height: 1328px;
+  object-fit: cover;
+}
+.button7 {
+  position: absolute;
+  height: 29.38%;
+  width: 100%;
+  top: 33.75%;
+  left: 0;
+  letter-spacing: 0.2px;
+  line-height: 14px;
+  font-weight: 600;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.small-button-prime4 {
+  position: absolute;
+  top: 0;
+  left: 557.8px;
+  border-radius: var(--br-21xl);
+  background-color: var(--primary);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.1);
+  width: 200.2px;
+  height: 48px;
+}
+.careers4,
+.support4 {
+  top: 0;
+  letter-spacing: 0.2px;
+  line-height: 24px;
+  display: inline-block;
+}
+.support4 {
+  position: absolute;
+  left: 406.2px;
+  width: 103px;
+  height: 22.1px;
+}
+.careers4 {
+  left: 251.7px;
+  width: 90.1px;
+}
+.about4,
+.blog4,
+.careers4,
+.menu4 {
+  position: absolute;
+  height: 23px;
+}
+.blog4 {
+  top: 0;
+  left: 131.6px;
+  letter-spacing: 0.2px;
+  line-height: 24px;
+  display: inline-block;
+  width: 57.2px;
+}
+.about4,
+.menu4 {
+  left: 0;
+}
+.about4 {
+  top: 0;
+  letter-spacing: 0.2px;
+  line-height: 24px;
+  display: inline-block;
+  width: 77.2px;
+}
+.menu4 {
+  top: 14.4px;
+  width: 509.1px;
+  color: var(--primary);
+}
+.header-menu4 {
+  position: absolute;
+  top: 31px;
+  left: 911px;
+  width: 758px;
+  height: 48px;
+}
+.desktop-6 {
+  width: 100%;
+  position: relative;
+  background-color: var(--z-white-fff);
+  height: 1328px;
+  text-align: center;
+  font-size: var(--menu-16px-regular-size);
+  color: var(--z-white-fff);
+  font-family: var(--button);
+}
